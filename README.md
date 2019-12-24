@@ -5,7 +5,7 @@ The Berliner Morgenpost made these absolutely brilliant electoral maps that show
 
 Thing is, I'm terrible at R. So I've created a jupyter notebook with a very simple workflow to create similar maps in Python. The jupyet  guides you through all the steps required.
 
-**UPDATED** Now with a full walk-through with the maps for the [general election 2017-2019]().
+**UPDATED** Now with a full walk-through with the maps for the [general election 2017-2019](https://github.com/puntofisso/SpikesMap/blob/master/Spikes%20map%20%5Bunprojected%5D%20-%20GE2019.ipynb).
 
 Contains National Statistics data © Crown copyright and database right [2015]
 Contains Ordnance Survey data © Crown copyright and database right [2015]
