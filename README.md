@@ -5,11 +5,23 @@ The Berliner Morgenpost made these absolutely brilliant electoral maps that show
 
 Thing is, I'm terrible at R. So I've created a jupyter notebook with a very simple workflow to create similar maps in Python. The jupyet  guides you through all the steps required.
 
-The London Mayor example is from [https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london] 
+**UPDATED** Now with a full walk-through with the maps for the general election 2017-2019.
+
 Contains National Statistics data © Crown copyright and database right [2015]
 Contains Ordnance Survey data © Crown copyright and database right [2015]
 
-## Vote variations in the 1st choice votes in the 2012 and 2016 Mayoral Elections for the Labour Party and the Conservative Party, aggregated by London Borough
-![Zac Goldsmith](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/zac.png)
-![Sadiq Khan](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/sadiq.png)
+# General Election 2019
+![Labour](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/labour.png)
+![Conservatives](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/conservatives.png)
+![Liberal Democrats](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/libdems.png)
+![Green](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/green.png)
+![Scottish National Party](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/snp.png)
+![Demoratic Unionist Party](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/dup.png)
+![Sinn Fein](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/sinnfein.png)
+![Social Democratic and Labour Party](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/sdlp.png)
+
+
+# London Mayoral Election 2016
+![Zac Goldsmith](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/zac.png)
+![Sadiq Khan](https://raw.githubusercontent.com/puntofisso/SpikesMap/master/images/sadiq.png)
 
